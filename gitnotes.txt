@@ -1,0 +1,10 @@
+git => 
+    it is a version control system
+    it tracks your code,
+
+
+
+
+
+
+github => it is online plateformwhere we store our code/project
